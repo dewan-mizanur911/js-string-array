@@ -15,5 +15,5 @@ function concatName() {
     }
     return fullName;
 }
-const name = concatName('rohim', 'korim', 'lala');
-console.log(name);
+const myName = concatName('rohim', 'korim', 'lala');
+console.log(myName);
